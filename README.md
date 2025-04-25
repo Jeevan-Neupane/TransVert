@@ -11,7 +11,7 @@
 - Dice Loss-based optimization
 - Training & validation loss tracking with `wandb`
 - Inline evaluation loop with Dice Score logging
-- 🖼Visual mid-slice predictions (wandb + matplotlib)
+- Visual mid-slice predictions (wandb + matplotlib)
 - Interactive 3D slice viewer with `ipywidgets`
 
 ---
